@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi, I'm Dhanush Reddy 👋
 
-<!--
-**KDhanush25/KDhanush25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a 1st-year BTech CS student at KL University.
 
-Here are some ideas to get you started:
+🎓 About Me
+- 📚 Studying Computer Science at KL University
+- 💻 Learning Java, DSA, and Web Development
+- 🎯 Building projects to strengthen my fundamentals
+- 🤝 Open to collaboration and learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+- **Languages:** Java, Python, HTML, CSS, JavaScript
+- **Currently Learning:** Data Structures & Algorithms
+
+📁 Popular Projects
+- **SRC** - Java Billing System
+- **SOURCE** - Java Implementation Practice
+
+📞 Connect With Me
+- LinkedIn: https://linkedin.com/in/dhanush-reddy-k-86a3b3377
+- Email:dhanushkittu008@gmail.com
+---
+⭐ If you like my projects, please give them a star!
